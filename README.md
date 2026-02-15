@@ -3,6 +3,10 @@
 ### ID : 28945
 ### Institution : Adventist University of Central Africa(AUCA)
 
+#### Repository link : 
+#### PDB Name created : `co_pdb_28945`
+#### Issues Encountered: Yes
+
 ---
 
 ## Overview of tasks
