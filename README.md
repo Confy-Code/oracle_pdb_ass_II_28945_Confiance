@@ -178,11 +178,12 @@ minor misunderstanding caused a serious issue, but later it was handled successf
 
 ### References
 - Oracle Corporation. (2019). Administering a CDB and PDBs : `https://docs.oracle.com/en/database/oracle/oracle-database/19/multi/`
-- Youtube - Oracle Database 21c Installation - Enterprise Edition - Connect with SQL Developer-Unlock HR, Scott : `https://youtu.be/62loxIrfxzk?si=6G7hvDRRN9ZBWK83` 
+- Youtube - Oracle Database 21c Installation - Enterprise Edition - Connect with SQL Developer-Unlock HR, Scott : `https://youtu.be/62loxIrfxzk?si=6G7hvDRRN9ZBWK83`
+- Google's Gemini AI
 - Lecturer Eric's notes
+
 ---
-
-
+All sources were properly cited. Implementation and analysis represent original work. No AI-generated content was copied without attribution or adaption.
 
 
 
