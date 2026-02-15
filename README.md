@@ -181,6 +181,7 @@ At first we were entering the container's name as `co_pdb_28945` in small letter
 by querying `SELECT name FROM v$pdbs`, the console showed us that the correct name was `CO_PDB_28945` in capital letters. This 
 minor misunderstanding caused a serious issue, but later it was handled successfully.
 
+---
 
 ### References
 - Oracle Corporation. (2019). Administering a CDB and PDBs : `https://docs.oracle.com/en/database/oracle/oracle-database/19/multi/`
